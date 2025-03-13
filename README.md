@@ -24,3 +24,6 @@ This project is a **PDF-based chatbot** built using **Streamlit**, **PyPDF2**, *
     ```python
     OPENAI_API_KEY = "your_openai_api_key_here"
     ```
+3.**Run the app**
+    streamlit run PythonProject/chatbot.py
+
