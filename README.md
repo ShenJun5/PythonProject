@@ -14,17 +14,18 @@ This project is a **PDF-based chatbot** built using **Streamlit**, **PyPDF2**, *
    cd PythonProject
    ```
 
-2.**Install the required dependencies**
+2. **Install the required dependencies**
    ```sh
    pip install streamlit pypdf2 langchain faiss-cpu openai tiktoken langchain-community
    ```
 
-3.**Set your OpenAI API Key**
+3. **Set your OpenAI API Key**
     In the code, replace the placeholder API key with your actual OpenAI API key:
     
     ```python
     OPENAI_API_KEY = "your_openai_api_key_here"
     ```
-3.**Run the app**
+4. **Run the app**
+
     streamlit run PythonProject/chatbot.py
 
