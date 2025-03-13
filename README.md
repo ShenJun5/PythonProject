@@ -21,6 +21,7 @@ This project is a **PDF-based chatbot** built using **Streamlit**, **PyPDF2**, *
 
 3.**Set your OpenAI API Key**
     In the code, replace the placeholder API key with your actual OpenAI API key:
+    
     ```python
     OPENAI_API_KEY = "your_openai_api_key_here"
     ```
