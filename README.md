@@ -27,5 +27,5 @@ This project is a **PDF-based chatbot** built using **Streamlit**, **PyPDF2**, *
     ```
 4. **Run the app**
 
-    streamlit run PythonProject/chatbot.py
+    streamlit run chatbot.py
 
